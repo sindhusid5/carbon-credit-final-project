@@ -5,6 +5,16 @@
 
 The Carbon Credit Marketplace is a decentralized platform for trading carbon credits. The project is built using Ethereum smart contracts(using Hardhat), Node.js, MongoDB, and React.
 
+## Preview
+
+Here’s a quick preview of the Carbon Credit Marketplace:
+
+![Homepage Preview](./frontend/src/nft-images/homepage.png)
+![Homepage Preview](./frontend/src/nft-images/homepage-2.png)
+![Homepage Preview](./frontend/src/nft-images/homepage-3.png)
+![Minting Preview](./frontend/src/nft-images/nft-minting.png)
+
+
 ## Project Structure
 
 ```plaintext
